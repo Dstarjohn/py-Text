@@ -80,3 +80,6 @@ for i in range(1,n):  # 发起n次的get请求，从page=1开始，0和1同一�
 ### 核心1数据输出
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数据输出器是负责数据输出的工具。如果要输出的文件不存在，程序会自动创建文件，并且每次重写之前都会覆盖前面的内容。这里我选择的输出方式是xlsx，直接将数据分析器得到的数据存储在慕课.xlsx文件中。
 
+## 代码的目录以及运行效果图
+![image](https://github.com/Dstarjohn/py-Text/blob/master/image/1.jpg)
+## 抓取的数据信息截图
