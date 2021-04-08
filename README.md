@@ -83,3 +83,4 @@ for i in range(1,n):  # 发起n次的get请求，从page=1开始，0和1同一�
 ## 代码的目录以及运行效果图
 ![image](https://github.com/Dstarjohn/py-Text/blob/master/image/1.jpg)
 ## 抓取的数据信息截图
+![image](https://github.com/Dstarjohn/py-Text/blob/master/image/3.jpg)
